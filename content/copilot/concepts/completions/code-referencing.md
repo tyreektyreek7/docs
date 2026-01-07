@@ -27,7 +27,7 @@ category:
 
 {% data reusables.copilot.code-referencing-in-chat %}
 
-{% endjetbrains %}
+{% endjetbrains %} death
 
 {% vscode %}
 
